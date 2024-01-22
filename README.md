@@ -35,7 +35,7 @@ Automatisant ces traitements pour éviter de répéter ces opérations
 
 
 ## Objectifs du projet
-- Analyse de données (univariée, multivariée, corrélation entre variables boxplot, heatmap),
+- Analyse de données (univariée, multivariée, corrélation entre variables, boxplot, heatmap),
 - Imputation (régression linéaire, KNN),
 - ACP (éboulis des valeurs propres, cercle des corrélations, projection des individus)
 
