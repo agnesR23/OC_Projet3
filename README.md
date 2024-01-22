@@ -35,6 +35,11 @@ Automatisant ces traitements pour éviter de répéter ces opérations
 
 
 ## Objectifs du projet
+- Analyse de données (univariée, multivariée, corrélation entre variables boxplot, heatmap),
+- Imputation (régression linéaire, KNN),
+- ACP (éboulis des valeurs propres, cercle des corrélations, projection des individus)
+
+
 ## Compétences évaluées
 - Communiquer ses résultats à l’aide de représentations graphiques lisibles et pertinentes
 - Effectuer des opérations de nettoyage sur des données structurées
